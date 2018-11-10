@@ -1,0 +1,27 @@
+#header1{
+    color: white;
+    background-color: #d30009;
+    border-bottom: 15px solid black;
+    border-left: 15px solid #d30009;
+    border-right: 15px solid #d30009;
+    padding:2px;
+    margin-right: 25%;
+    margin-top: 2px;
+    margin-bottom : 0px
+}
+#para1{
+    color:white;
+    padding: 50px;
+    margin-top: 7px;
+    margin-right: 25%;
+    background: #d30009 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#follow{
+    color: #d30009
+}
+a{
+padding-left: 15px
+
+
+}
